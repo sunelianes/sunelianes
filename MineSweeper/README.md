@@ -9,3 +9,5 @@ Det finnes også en funskjon for å markere hvor man tror det er bomber, dette g
 
 https://vimeo.com/819045046?share=copy
 
+Viktig å nevne at dette ble gjort som ett skoleprosjekt. pom.xl, LAGINSTALLER.md, OPPAGVETEKST.md, make, og noen av testene er ikke laget av meg. 
+
