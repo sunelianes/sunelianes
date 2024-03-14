@@ -1,12 +1,16 @@
-* Sune Eriksson Lianes
-* 23 yrs old from Trondheim, Norway.
-* Currently studying computer technology at UiB (University of Bergen) at my second year.
-* Interests (apart from computer science):
-  * Playing sports, mostly handball and tennis.
-  * Staying active, by hiking or working out.
-  * Cooking food.
-* Links:
+<h1 align="center">
+ Sune Eriksson Lianes
+</h1>
+<h4 align="center">
+ Computer Technology student at the University of Bergen
+</h4>
+<p> - 23 yrs old from Trondheim, Norway. </p>
+<p> - Currently studying computer technology at UiB (University of Bergen) at my second year. </p>
+<p> - Interests (apart from computer science) include playing sports like handball and tennis, staying active by hiking or working out and cooking a nice meal </p>
+<p> - Links:
   * www.linkedin.com/in/sune-eriksson-lianes
+</p>
+
 
 
 <!---
