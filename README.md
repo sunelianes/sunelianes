@@ -4,6 +4,10 @@
 <h4 align="center">
  Computer Technology student at the University of Bergen
 </h4>
+
+<p>Projects:</p>
+<p></p>
+
 <p> - 23 yrs old from Trondheim, Norway. </p>
 <p> - Currently studying computer technology at UiB (University of Bergen) at my second year. </p>
 <p> - Interests (apart from computer science) include playing sports like handball and tennis, staying active by hiking or working out and cooking a nice meal </p>
