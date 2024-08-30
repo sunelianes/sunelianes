@@ -10,8 +10,8 @@
 <p> - https://hoytekken.vercel.app/ (group project) </p>
 <p> - https://github.com/sunelianes/calendar </p>
 
-<p> I am also currently working on implementing a feature in javascript for the spidermonkey-engine.</p>
-<p> Here I work with a few other students and members of TC39 as a school project.</p>
+<p> - I am also currently working on implementing a feature in javascript for the spidermonkey-engine.
+      Here I work with a few other students and members of TC39 as a school project.</p>
 
 <p> - 23 yrs old from Trondheim, Norway. </p>
 <p> - Currently studying computer technology at UiB (University of Bergen) at my third year. </p>
