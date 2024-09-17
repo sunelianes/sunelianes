@@ -9,16 +9,16 @@
 <p> - https://github.com/sunelianes/exam-dates </p>
 <p> - https://hoytekken.vercel.app/ (group project) </p>
 <p> - https://github.com/sunelianes/calendar </p>
-
 <p> - I am also currently working on implementing a feature in javascript for the spidermonkey-engine.
       Here I work with a few other students and members of TC39 as a school project.</p>
 
+<p>About:</p>
 <p> - 23 yrs old from Trondheim, Norway. </p>
 <p> - Currently studying computer technology at UiB (University of Bergen) at my third year. </p>
 <p> - Interests (apart from computer science) include playing sports like handball and tennis, staying active by hiking or working out and cooking a nice meal </p>
-<p> - Links:
-  * www.linkedin.com/in/sune-eriksson-lianes
-</p>
+
+<p>Links:</p>
+<p> -www.linkedin.com/in/sune-eriksson-lianes</p>
 
 
 
