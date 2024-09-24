@@ -13,7 +13,7 @@
 <p> - https://github.com/sunelianes/exam-dates </p>
 
 <p>About:</p>
-<p> - 23 yrs old from Trondheim, Norway. </p>
+<p> - 24 yrs old from Trondheim, Norway. </p>
 <p> - Currently studying computer technology at UiB (University of Bergen) at my third year. </p>
 <p> - Interests (apart from computer science) include playing sports like handball and tennis, staying active by hiking or working out and cooking a nice meal </p>
 
