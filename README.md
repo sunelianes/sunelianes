@@ -6,11 +6,11 @@
 </h4>
 
 <p>Projects:</p>
-<p> - https://github.com/sunelianes/exam-dates </p>
 <p> - https://hoytekken.vercel.app/ (group project) </p>
 <p> - https://github.com/sunelianes/calendar </p>
 <p> - I am also currently working on implementing a feature in javascript for the spidermonkey-engine.
       Here I work with a few other students and members of TC39 as a school project.</p>
+<p> - https://github.com/sunelianes/exam-dates </p>
 
 <p>About:</p>
 <p> - 23 yrs old from Trondheim, Norway. </p>
