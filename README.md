@@ -8,8 +8,8 @@
 <p>Projects:</p>
 <p> - https://hoytekken.vercel.app/ (group project) </p>
 <p> - https://github.com/sunelianes/calendar </p>
-<p> - I am also currently working on implementing a feature in javascript for the spidermonkey-engine.
-      Here I work with a few other students and members of TC39 as a school project.</p>
+<p> - https://github.com/bldl/emplace-spidermonkey (implementation of feature in js)</p>
+<p> - https://tc39.es/ecma262/multipage/keyed-collections.html#sec-map.prototype.getorinsert (emplace in the specification with rename)</p>
 <p> - https://github.com/sunelianes/exam-dates </p>
 
 <!---
